@@ -1,0 +1,8 @@
+"metric","value"
+"Mean daily steps (worn days)",8319
+"Median daily steps (worn days)",8053
+"Share of worn days with 10,000+ steps",0.351
+"Share of worn days with 7,500+ steps",0.54
+"Mean sedentary hours per worn day",15.9
+"Mean very + fairly active minutes per worn day",37.8
+"Correlation: daily steps vs calories (all days)",0.59
